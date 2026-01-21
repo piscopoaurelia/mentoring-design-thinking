@@ -1,4 +1,5 @@
 # mentoring-design-thinking
+
 > Mentoring Project using Design Thinking
 
 ## Aim
@@ -58,6 +59,3 @@ Tracciare un percorso di mentoring che integra le fasi del Design Thinking:
 
 ## Azioni successive
 - 
-
-
-
